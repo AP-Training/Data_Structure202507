@@ -11,4 +11,4 @@
 - 實務練習
 
 #### 課程大綱
-- [1. 環境建置](http://mirdex.github.io/Data_Structure202507/0.%20開發環境建置.slides.html)
+- [1. 環境建置](http://ap-training.github.io/Data_Structure202507/0.%20開發環境建置.slides.html)
