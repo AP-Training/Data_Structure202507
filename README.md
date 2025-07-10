@@ -12,3 +12,4 @@
 
 #### 課程大綱
 - [1. 環境建置](http://ap-training.github.io/Data_Structure202507/0.%20開發環境建置.slides.html)
+- [補充 - 類別的進階用法](http://ap-training.github.io/Data_Structure202507/0-1.%20補充%20-%20類別進階用法_Q.slides.html)
