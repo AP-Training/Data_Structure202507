@@ -15,3 +15,4 @@
 - [補充 - 類別的進階用法](http://ap-training.github.io/Data_Structure202507/0-1.%20補充%20-%20類別進階用法_Q.slides.html)
 - [2. 資料結構與演算法簡介](http://ap-training.github.io/Data_Structure202507/1.%20資料結構與演算法簡介.slides.html)
 - [3. Array](http://ap-training.github.io/Data_Structure202507/2.%20陣列(Array)_Q.slides.html)
+- [4. Queue](http://ap-training.github.io/Data_Structure202507/3.%20佇列(Queue)_Q.slides.html)
