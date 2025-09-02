@@ -18,3 +18,4 @@
 - [4. Queue](http://ap-training.github.io/Data_Structure202507/3.%20佇列(Queue)_Q.slides.html)
 - [5. Stack](http://ap-training.github.io/Data_Structure202507/4.堆疊_Q(Stack).slides.html)
 - [6. Recursive](http://ap-training.github.io/Data_Structure202507/13.%20遞迴_Q(Recursive).slides.html)
+- [7. Linked List](http://ap-training.github.io/Data_Structure202507/5.鏈結串列_Q(Linked%20List).slides.html)
