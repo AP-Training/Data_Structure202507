@@ -21,3 +21,4 @@
 - [7. Linked List](http://ap-training.github.io/Data_Structure202507/5.鏈結串列_Q(Linked%20List).slides.html)
 - [8. Binary Tree](http://ap-training.github.io/Data_Structure202507/6.二元搜尋樹(Binary%20Search%20Tree)_Q.slides.html)
 - [9. Heap Tree](http://ap-training.github.io/Data_Structure202507/7.堆積樹(Heap%20Tree)_Q.slides.html)
+- [10. Sort 1](http://ap-training.github.io/Data_Structure202507/9.排序(Sort)(一)_Q.slides.html)
